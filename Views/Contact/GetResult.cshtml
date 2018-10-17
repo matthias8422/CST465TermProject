@@ -1,0 +1,27 @@
+﻿@model cst465termproject.Models.Contact
+@{
+    ViewData["Title"] = "Results";
+}
+
+@section Top{
+    <h1>This is my website</h1>
+    <p>It is the best website</p>
+}
+@section Body{
+    <h1>The information you entered was</h1>
+    <ul>
+        <li>
+            Name: @Model.Name
+        </li>
+        <li>
+            Phone: @Model.Phone
+        </li>
+        <li>
+            E-mail: @Model.Email
+        </li>
+        <li>
+            Message: @Model.Message
+        </li>
+    </ul>
+    }
+}​

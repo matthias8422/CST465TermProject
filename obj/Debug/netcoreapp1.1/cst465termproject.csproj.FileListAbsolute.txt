@@ -1,0 +1,10 @@
+C:\Users\yobro\Desktop\CST465TermProject\bin\Debug\netcoreapp1.1\cst465termproject.deps.json
+C:\Users\yobro\Desktop\CST465TermProject\bin\Debug\netcoreapp1.1\cst465termproject.runtimeconfig.json
+C:\Users\yobro\Desktop\CST465TermProject\bin\Debug\netcoreapp1.1\cst465termproject.runtimeconfig.dev.json
+C:\Users\yobro\Desktop\CST465TermProject\bin\Debug\netcoreapp1.1\cst465termproject.dll
+C:\Users\yobro\Desktop\CST465TermProject\obj\Debug\netcoreapp1.1\cst465termproject.csprojResolveAssemblyReference.cache
+C:\Users\yobro\Desktop\CST465TermProject\obj\Debug\netcoreapp1.1\cst465termproject.csproj.CoreCompileInputs.cache
+C:\Users\yobro\Desktop\CST465TermProject\obj\Debug\netcoreapp1.1\cst465termproject.AssemblyInfo.cs
+C:\Users\yobro\Desktop\CST465TermProject\bin\Debug\netcoreapp1.1\cst465termproject.pdb
+C:\Users\yobro\Desktop\CST465TermProject\obj\Debug\netcoreapp1.1\cst465termproject.dll
+C:\Users\yobro\Desktop\CST465TermProject\obj\Debug\netcoreapp1.1\cst465termproject.pdb
